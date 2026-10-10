@@ -1,0 +1,24 @@
+
+
+# Local Python environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# Occurrence and environmental datasets
+data/
+
+# Trained models and intermediate outputs
+models/
+outputs/
+results/
+
+# Local caches
+*.log
+.DS_Store
+
+notebooks_public_review/
+venv/
+.pytest_cache/
+notebooks_original_backup/
